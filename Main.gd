@@ -3,6 +3,8 @@ extends Node
 export (PackedScene) var Mob
 var score
 
+#This is a git test
+
 func _ready():
     randomize()
 	
